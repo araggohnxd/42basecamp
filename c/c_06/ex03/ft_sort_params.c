@@ -60,7 +60,7 @@ int	main(int argc, char *argv[])
 	while (i < argc - 1)
 	{
 		j = i + 1;
-		if (ft_strcmp(argv[i], argv[j]) => 1)
+		if (ft_strcmp(argv[i], argv[j]) >= 1)
 		{
 			aux = argv[j];
 			argv[j] = argv[i];
