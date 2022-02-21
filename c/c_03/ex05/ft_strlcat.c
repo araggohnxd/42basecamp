@@ -35,3 +35,5 @@ unsigned int	ft_strlcat(char *dest, char *src, unsigned int size)
 		i++;
 	return (i + aux);
 }
+
+// this one is wrong btw
